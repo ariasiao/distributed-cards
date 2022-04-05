@@ -3,3 +3,23 @@
   padding: 0px;
   box-sizing: inherit;
 }
+
+html {
+  font-family: 'Denk One';
+  padding: 1rem;
+  line-height: 1.5;
+}
+
+h1 {
+  font-style: normal;
+  color: #623b0c;
+  margin-bottom: 1.5rem;
+}
+
+main ol {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 1rem;
+  background-color: yellow;
+  align-items: flex-start;
+}
