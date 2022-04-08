@@ -59,10 +59,6 @@ main ol li {
   padding: 1rem;
 }
 
-main ol li img {
-  width: 100%;
-  align-self: center;
-}
 
 main ol li a {
   display: grid;
